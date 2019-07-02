@@ -5,8 +5,6 @@
     - [python-100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
     - [菜鸟教程-python](https://www.runoob.com/python/python-tutorial.html)
     - [python3-cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
-  - ### 练手项目
-    - [某博客的python项目练习](https://www.the5fire.com/python-practice-1.html)
   - ### 文档、库资源
     - [python官网](https://www.python.org/)
     - [官方文档](https://docs.python.org/zh-cn/3/)
@@ -21,7 +19,9 @@
   - ### 深度学习
     - [吴恩达机器学习-网易云公开课](https://study.163.com/course/courseMain.htm?courseId=1004570029&_trace_c_p_k2_=ce8cbb6e2c63445fb728f34243a08c35)
     - [吴恩达另一套深度学习的课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm/)
-    - [李宏毅-一天搞懂深度学习PPT](https://www.cnblogs.com/liuyihai/p/8448977.html)
+    - [神经网络直观理解](https://www.bilibili.com/video/av15532370)
+    - [kaggle数据科学竞赛网站](https://www.kaggle.com/)
+    - [一个机器学习知识很渊博的博客](https://www.cnblogs.com/pinard/)
 - ## 数学知识
   - ### 线性代数
     - [麻省理工公开课](https://www.bilibili.com/video/av15463995/?p)
