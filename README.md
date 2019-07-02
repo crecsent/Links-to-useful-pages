@@ -9,6 +9,8 @@
     - [python官网](https://www.python.org/)
     - [官方文档](https://docs.python.org/zh-cn/3/)
     - [awesome-python](https://github.com/vinta/awesome-python)
+    - [sklearn中文文档](http://sklearn.apachecn.org/#/docs/2?id=_11-%e5%b9%bf%e4%b9%89%e7%ba%bf%e6%80%a7%e6%a8%a1%e5%9e%8b)
+    - [sklearn官网](https://scikit-learn.org/stable/)
 - ## Linux  
   - ### 入门
     - [Linux就该这么学](https://www.linuxprobe.com/)
