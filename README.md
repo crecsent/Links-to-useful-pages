@@ -22,6 +22,14 @@
     - [神经网络直观理解](https://www.bilibili.com/video/av15532370)
     - [kaggle数据科学竞赛网站](https://www.kaggle.com/)
     - [一个机器学习知识很渊博的博客](https://www.cnblogs.com/pinard/)
+  - ### 深度学习框架
+    - #### keras
+      - [Keras官方中文文档](https://keras.io/zh/)
+      - [Keras第三方中文文档](http://keras-cn.readthedocs.io/en/latest/)
+    - #### Tensorflow
+      - [C语言中文网的Tensorflow教程](http://c.biancheng.net/tensorflow/)
+      - [Tensorflow中文社区](http://www.tensorfly.cn/)
+      - [官网](https://tensorflow.google.cn/)
 - ## 数学知识
   - ### 线性代数
     - [麻省理工公开课](https://www.bilibili.com/video/av15463995/?p)
