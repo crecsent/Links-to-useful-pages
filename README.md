@@ -1,4 +1,9 @@
 # 网站链接整理
+- ## 猫狗分类
+  - ### 实现代码
+    - [基于TensorFlow的实现（详细）](https://blog.csdn.net/qq_16137569/article/details/72802387)
+    - [基于Keras的实现](https://blog.csdn.net/qq_34784753/article/details/84315706)
+    - [Kaggle上的公开源码](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/kernels)
 - ## Python
   - ### 快速入门
     - [廖雪峰的python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
@@ -11,6 +16,7 @@
     - [awesome-python](https://github.com/vinta/awesome-python)
     - [sklearn中文文档](http://sklearn.apachecn.org/#/docs/2?id=_11-%e5%b9%bf%e4%b9%89%e7%ba%bf%e6%80%a7%e6%a8%a1%e5%9e%8b)
     - [sklearn官网](https://scikit-learn.org/stable/)
+    - [Anaconda清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
 - ## Linux  
   - ### 入门
     - [Linux就该这么学](https://www.linuxprobe.com/)
@@ -22,6 +28,7 @@
     - [吴恩达机器学习-网易云公开课](https://study.163.com/course/courseMain.htm?courseId=1004570029&_trace_c_p_k2_=ce8cbb6e2c63445fb728f34243a08c35)
     - [吴恩达另一套深度学习的课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm/)
     - [神经网络直观理解](https://www.bilibili.com/video/av15532370)
+    - [花书-Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
     - [kaggle数据科学竞赛网站](https://www.kaggle.com/)
     - [一个机器学习知识很渊博的博客](https://www.cnblogs.com/pinard/)
   - ### 深度学习框架
@@ -40,3 +47,11 @@
     - [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/)
   - ### 概率论与数理统计
     - [MIT公开课](https://www.bilibili.com/video/av6182731/?spm_id_from=333.788.videocard.10)
+ - ## git
+  - ### git教程
+    - [廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)   
+    - [CSDN](https://blog.csdn.net/qq_36667170/article/details/79085301)
+    - []()
+  - ### markdown
+    - [详细语法解说](https://github.com/guodongxiaren/README#横线)
+    
